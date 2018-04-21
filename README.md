@@ -1,2 +1,2 @@
 # pavelk_test
-a tetst repository
+a test repository - fixed
